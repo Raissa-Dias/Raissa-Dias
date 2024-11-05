@@ -2,6 +2,8 @@
 
 🌟 Hi, I'm Raissa, a front-end developer in training.
 
+![teste](https://github.com/Raissa-Dias/Raissa-Dias/blob/main/Shigure%20Ui%20Dance%20GIF%20-%20Shigure%20ui%20Dance%20Ui%20mama%20-%20Descobrir%20e%20Compartilhar%20GIFs%20(1).gif) 
+
 ## 🌱 Technologies I'm Learning
 
 - *HTML*
@@ -13,6 +15,7 @@
 
 - Organized and results-oriented
 - Motivated to collaborate on creative projects
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -42,14 +45,3 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Raissa-Dias/Raissa-Dias/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raissa-Dias&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=true&order=1" height="140" alt="stats graph"  />
-</div>
-
-###
